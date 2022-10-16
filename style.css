@@ -1,0 +1,183 @@
+.body {
+    width: 100%;
+    background-color: white;
+}
+
+.codoacodo {
+    width: 75px;
+}
+
+.texto {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: start;
+    color: aliceblue;
+    width: 100%;
+    font-size: 18px;
+}
+
+.bsas {
+    margin-top: 2%;
+}
+
+.blanco {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    width: 100%;
+    font-size: 18px;
+}
+
+.gris {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(196, 190, 190);
+    width: 100%;
+    font-size: 18px;
+}
+
+.verde{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    width: 100%;
+    font-size: 18px;
+}
+
+.nav-item {
+    width: 100%;
+    margin-top: 2%;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.container-fluid {
+    background-color: rgb(41, 41, 41);
+    width: 100%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.imagen {
+    position: relative;   
+}
+
+.ba1 {
+    width: 100%;
+    opacity: 50%;
+}
+
+.col-5 {
+    position: absolute;
+    bottom: 30%;
+}
+
+.titImg {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 100%;
+    font-size: 30px;
+    text-align: end;
+}
+
+.subImg {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 100%;
+    font-size: 18px;
+    text-align: end;
+}
+
+.botonIntro {
+    position: relative;
+    text-align: end;
+}
+
+.col-5 {
+    margin-left: 55%;
+}
+
+
+.tituloCartas {
+    margin-top: 3%;
+}
+
+.card {
+    width: 10%;
+    margin-left: 8%;
+}
+
+.card-img-top {
+    width: 80%;
+}
+
+.card-body {
+    width: 85%;
+}
+
+.introHono {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.honolulu {
+    width: 100%;
+}
+
+.textoHono {
+    margin-top: 2%;
+}
+
+.col {
+    width: 100%;
+}
+
+.form-control{
+    width: 50%;
+}
+
+.rowForm {
+    width: 100%;
+    justify-content: center;
+}
+
+.nombre {
+    margin-left: 50%;
+}
+
+.textarea{
+    margin-top: 1%;
+    margin-left: 24.5%;
+    width: 51%;
+}
+
+.textoForm {
+    width: 50%;
+}
+
+.botonForm {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.footer {
+    background-color: rgb(6, 46, 83);
+    margin-top: 3%;
+}
+
+.footerFlex {
+    display: flex;
+    flex-direction: row;
+}
+
+.fw-bold {
+    margin-left: 25%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
