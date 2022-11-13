@@ -56,6 +56,18 @@
     width: 100%;
 }
 
+.col {
+    width: 100%;
+}
+
+.col-5 {
+    position: absolute;
+    bottom: 30%;
+}
+.col-5 {
+    margin-left: 55%;
+}
+
 .col-9 {
     width: 75%;
 }
@@ -71,11 +83,6 @@
 .ba1 {
     width: 100%;
     opacity: 50%;
-}
-
-.col-5 {
-    position: absolute;
-    bottom: 30%;
 }
 
 .titImg {
@@ -98,11 +105,6 @@
     position: relative;
     text-align: end;
 }
-
-.col-5 {
-    margin-left: 55%;
-}
-
 
 .tituloCartas {
     margin-top: 3%;
@@ -134,10 +136,6 @@
     margin-top: 2%;
 }
 
-.col {
-    width: 100%;
-}
-
 .form-control{
     width: 50%;
 }
@@ -149,6 +147,10 @@
 
 .nombre {
     margin-left: 50%;
+}
+
+.margen_izq {
+    margin-left: 25%;
 }
 
 .textarea{
